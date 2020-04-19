@@ -1,0 +1,14 @@
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\bin\Debug\netcoreapp2.1\SimpleApi.deps.json
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\bin\Debug\netcoreapp2.1\SimpleApi.runtimeconfig.json
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\bin\Debug\netcoreapp2.1\SimpleApi.runtimeconfig.dev.json
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\bin\Debug\netcoreapp2.1\SimpleApi.dll
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\bin\Debug\netcoreapp2.1\SimpleApi.pdb
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\obj\Debug\netcoreapp2.1\SimpleApi.csprojAssemblyReference.cache
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\obj\Debug\netcoreapp2.1\SimpleApi.csproj.CoreCompileInputs.cache
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\obj\Debug\netcoreapp2.1\SimpleApi.RazorAssemblyInfo.cache
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\obj\Debug\netcoreapp2.1\SimpleApi.RazorAssemblyInfo.cs
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\obj\Debug\netcoreapp2.1\SimpleApi.AssemblyInfoInputs.cache
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\obj\Debug\netcoreapp2.1\SimpleApi.AssemblyInfo.cs
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\obj\Debug\netcoreapp2.1\SimpleApi.RazorTargetAssemblyInfo.cache
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\obj\Debug\netcoreapp2.1\SimpleApi.dll
+C:\projects\repos\vscode\SimpleAPISln\src\SimpleApi\obj\Debug\netcoreapp2.1\SimpleApi.pdb
